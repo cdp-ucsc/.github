@@ -5,4 +5,4 @@ The Common Data Platform is a strategic effort sponsored by campus leadership th
 * Develop and implement a Data Stewardship & Governance Program
 * Improved information experience for decision makers, consumers, and engineers
 
-Additional information can be found at the following link: [cdp.ucsc.edu](https://cdp.ucsc.edu)
+Additional information can be found at the following link: [https://cdp.ucsc.edu](https://cdp.ucsc.edu)
