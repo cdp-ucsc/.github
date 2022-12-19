@@ -8,7 +8,7 @@ The Common Data Platform is a strategic effort sponsored by campus leadership th
 * Improved information experience for decision makers, consumers, and engineers
 
 ### GitHub Access
-If you are a UCSC Employee and have been asked to work on the project you will need a github account associated with your ucsc email. The attributes below is the recommended approach.  You can sign up for an account at [this link](https://github.com/signup)
+If you are a UCSC Employee and have been asked to work on the project you will need a github account associated with your UCSC email. The attributes below is the recommended approach.  You can sign up for an account at [this link](https://github.com/signup)
 
 ![image](https://user-images.githubusercontent.com/15661467/208491859-44f587a1-cd90-4e40-8361-d7431c4936ae.png)
 
