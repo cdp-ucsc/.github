@@ -12,5 +12,8 @@ If you are a UCSC Employee and have been asked to work on the project you will n
 
 ![image](https://user-images.githubusercontent.com/15661467/208491859-44f587a1-cd90-4e40-8361-d7431c4936ae.png)
 
+### GitHub MFA
+We also require two-factor authentication / MFA please see [this document](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) for instructions on how to set this up.
+
 
 Additional information can be found at the following link: [https://cdp.ucsc.edu](https://cdp.ucsc.edu)
