@@ -1,6 +1,3 @@
-### Common Data Platform
-
-
 ### GitHub Access
 If you are a UCSC Employee and have been asked to work on the project you will need a **free** github account associated with your UCSC email. The attributes below represent the recommended approach.  You can sign up for an account at [this link](https://github.com/signup).  
 
