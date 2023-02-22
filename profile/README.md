@@ -3,13 +3,15 @@
 
 ![image](https://user-images.githubusercontent.com/15661467/208491859-44f587a1-cd90-4e40-8361-d7431c4936ae.png)
 
-2. Once your account is created you will need to enable **MFA/2FA** authentication prior to being added to the UCSC GitHub Organization where you will have access to project documentation, git repositories, and additional project resouces. 
-
-MFA/2FA - video and documentation
+2. **How to enable MFA/2FA for Github video and documentation**
 
 :tv: [YouTube MFA/2FA for Github](https://www.youtube.com/watch?v=j6beTHnsumI)
 
 :clipboard: [MFA/2FA How To Documentation](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+
+Once your account is created you will need to enable **MFA/2FA** authentication prior to being added to the UCSC GitHub Organization where you will have access to project documentation, git repositories, and additional project resouces. 
+
+----
 
 The Common Data Platform is a strategic effort sponsored by campus leadership that will ensure the campus’ administrative data assets support the mission and vision of the University of California, Santa Cruz.  
 
